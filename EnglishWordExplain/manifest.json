@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Lightwork",
+    "version": "1.0",
+    "description": "Provide you with real-time English interpretation of English words on any interface.",
+    "content_scripts": [
+      {
+        "matches": ["https://*/*"],
+        "js": ["my_script.js"]
+      }
+    ],
+    "permissions": [],
+    "icons":{
+      "128": "icon2.png"
+    }
+  
+  }
+  
