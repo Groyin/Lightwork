@@ -2,7 +2,7 @@
 
 Yida Yin May 03 , 2023
 
-A browser extension could help you learn english.Get the explanation of an English word instead of its translation.
+A browser extension could help me learn english.Get the explanation of an English word instead of its translation.
 
 ### Start folder
 
